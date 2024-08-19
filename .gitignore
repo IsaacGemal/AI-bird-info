@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Pytorch
-.pt
+*.pt
 
 # Distribution / packaging
 .Python
